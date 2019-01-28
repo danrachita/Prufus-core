@@ -1,5 +1,5 @@
 ---
-name: "prufus-osx-3.0"
+name: "prufus-osx-2.0"
 enable_cache: true
 suites:
 - "trusty"

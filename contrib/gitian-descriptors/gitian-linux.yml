@@ -1,5 +1,5 @@
 ---
-name: "prufus-linux-3.0"
+name: "prufus-linux-2.0"
 enable_cache: true
 suites:
 - "trusty"

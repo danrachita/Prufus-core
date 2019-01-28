@@ -1,5 +1,5 @@
 ---
-name: "prufus-win-3.0"
+name: "prufus-win-2.0"
 enable_cache: true
 suites:
 - "trusty"
